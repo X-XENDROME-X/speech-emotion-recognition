@@ -50,6 +50,7 @@ A deep learning project that classifies eight emotions from speech audio using a
 ├── LICENSE
 ├── README.md
 ├── img.jpg
+├── requirements.txt
 ├── SpeechEmotionCNN.ipynb
 
 ```
@@ -58,6 +59,7 @@ A deep learning project that classifies eight emotions from speech audio using a
 * **`LICENSE`**: MIT open-source license
 * **`README.md`**: Project documentation (this file)
 * **`img.jpg`**: Sample process diagram
+* **`requirements.txt`**: For project dependencies
 * **`SpeechEmotionCNN.ipynb`**: Notebook covering data loading, feature extraction, training, evaluation, and prediction
 
 ---
