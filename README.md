@@ -1,5 +1,5 @@
 <h1 align="center">
- # Speech Emotion Recognition
+ Speech Emotion Recognition
 </h1>
 
 <p align="center">
