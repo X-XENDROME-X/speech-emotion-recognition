@@ -6,9 +6,6 @@
  <img src="img.jpg" alt="Speech Emotion Recognition" width="400"/>
 </p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-green.svg)](https://www.python.org/)
-
 A deep learning project that classifies eight emotions from speech audio using a Convolutional Neural Network (CNN). Trained on the RAVDESS dataset, this repository demonstrates end-to-end audio processing—from feature extraction to model inference—ideal for applications like virtual assistants, mental health monitoring, and human-computer interaction.
 
 ---
