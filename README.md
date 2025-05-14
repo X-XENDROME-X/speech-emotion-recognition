@@ -57,7 +57,7 @@ A deep learning project that classifies eight emotions from speech audio using a
 * **`.gitignore`**: Excludes caches and checkpoints
 * **`LICENSE`**: MIT open-source license
 * **`README.md`**: Project documentation (this file)
-* **`img.jpg`**: Sample waveform or model diagram
+* **`img.jpg`**: Sample process diagram
 * **`SpeechEmotionCNN.ipynb`**: Notebook covering data loading, feature extraction, training, evaluation, and prediction
 
 ---
