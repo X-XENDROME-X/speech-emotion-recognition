@@ -1,6 +1,6 @@
-<h align="center">
+<h1 align="center">
  # Speech Emotion Recognition
-</h>
+</h1>
 
 <p align="center">
  <img src="img.jpg" alt="Speech Emotion Recognition" width="400"/>
