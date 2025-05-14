@@ -1,7 +1,5 @@
 # Speech Emotion Recognition
 
-# Speech Emotion Recognition
-
 <p align="center">
  <img src="img.jpg" alt="Speech Emotion Recognition" width="400"/>
 </p>
